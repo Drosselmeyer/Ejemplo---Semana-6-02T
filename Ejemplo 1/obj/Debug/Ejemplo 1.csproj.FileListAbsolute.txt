@@ -1,0 +1,6 @@
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo - Semana 6 02T\Ejemplo 1\bin\Debug\Ejemplo 1.exe.config
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo - Semana 6 02T\Ejemplo 1\bin\Debug\Ejemplo 1.exe
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo - Semana 6 02T\Ejemplo 1\bin\Debug\Ejemplo 1.pdb
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo - Semana 6 02T\Ejemplo 1\obj\Debug\Ejemplo 1.csprojResolveAssemblyReference.cache
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo - Semana 6 02T\Ejemplo 1\obj\Debug\Ejemplo 1.exe
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo - Semana 6 02T\Ejemplo 1\obj\Debug\Ejemplo 1.pdb

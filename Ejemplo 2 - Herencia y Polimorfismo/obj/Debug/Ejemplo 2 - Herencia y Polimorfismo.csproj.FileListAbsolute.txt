@@ -1,0 +1,6 @@
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo - Semana 6 02T\Ejemplo 2 - Herencia y Polimorfismo\bin\Debug\Ejemplo 2 - Herencia y Polimorfismo.exe.config
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo - Semana 6 02T\Ejemplo 2 - Herencia y Polimorfismo\bin\Debug\Ejemplo 2 - Herencia y Polimorfismo.exe
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo - Semana 6 02T\Ejemplo 2 - Herencia y Polimorfismo\bin\Debug\Ejemplo 2 - Herencia y Polimorfismo.pdb
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo - Semana 6 02T\Ejemplo 2 - Herencia y Polimorfismo\obj\Debug\Ejemplo 2 - Herencia y Polimorfismo.exe
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo - Semana 6 02T\Ejemplo 2 - Herencia y Polimorfismo\obj\Debug\Ejemplo 2 - Herencia y Polimorfismo.pdb
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo - Semana 6 02T\Ejemplo 2 - Herencia y Polimorfismo\obj\Debug\Ejemplo 2 - Herencia y Polimorfismo.csprojResolveAssemblyReference.cache
